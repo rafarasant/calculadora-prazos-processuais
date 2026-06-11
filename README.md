@@ -1,6 +1,6 @@
 # Calculadora de Prazos Processuais
 
-Programa em C para calcular datas de vencimento de prazos processuais com base no CPC/2015.
+Programa em C para calcular datas de vencimento de prazos processuais com base no Código de Processo Civil (CPC/2015 — LEI Nº 13.105, DE 16 DE MARÇO DE 2015).
 
 ## Sobre
 
